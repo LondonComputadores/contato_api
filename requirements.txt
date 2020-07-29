@@ -72,7 +72,7 @@ Twisted==17.9.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.22
-uvicorn==0.8.4
+uvicorn==0.11.7
 uvloop==0.12.2
 websocket-client==0.56.0
 websockets==7.0
